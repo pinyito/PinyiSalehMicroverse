@@ -1,0 +1,40 @@
+/*CSS Commands fof Pinyi and Saleh
+Tribute Page CSS/HTLM Project
+for Microverse Program*/
+/*Author: Pinyi & Saleh
+Date: Thursday March 05,2020 */
+
+#main{
+}
+
+#title{
+	text-align: center;
+	color: blue;
+	font-size: 35px;
+	letter-spacing: 3px;
+	font-weight: bold;
+	
+}
+
+#img-div{
+	display: block;
+	text-align: center;
+}
+
+#image{
+}
+
+#img-caption{
+}
+
+#tribute-info{
+	width: 75%;
+	text-align: left;
+	margin-left: 12%;
+}
+
+#tribute-link{
+	text-align: center;
+}
+
+
